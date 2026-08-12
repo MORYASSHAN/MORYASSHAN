@@ -49,7 +49,7 @@ const shaan = {
 <td width="33%" valign="top">
 
 ### 🏫 Acadex Platform
-**Live · 4 countries · 500+ users**
+
 
 Institutional platform unifying attendance, scheduling, resources, and communication with multi-role access (admin/teacher/CR/student). Built the AI-powered academic assistant with prompt-driven task execution and configurable approval flows.
 
