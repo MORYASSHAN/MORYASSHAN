@@ -34,11 +34,11 @@ const shaan = {
 };
 ```
 
-- 🏗️ Architecting scalable **Node.js / MongoDB** backends at Acadex, serving **500+ concurrent users** across **4 partner colleges in 4 countries**
+- 🏗️ Architecting scalable **Node.js / MongoDB** backends at Acadex, serving **students** and **colleges**
 - 🧠 Routing LLM inference (**NVIDIA NIM**, **Groq**) into deterministic, policy-enforcing workflows — building the governance layer agentic systems need on top of non-deterministic models
 - 🚀 Shipped two full products solo: **JuteIt** (e-commerce, sub-500ms load) and **ColdMailAI** (AI SaaS with structured output enforcement)
 - 📈 Cut API response time **~35%** through query optimization and schema redesign; cut feature release cycles **~40%** through modular RBAC architecture
-- 📍 India → building toward San Francisco and the startup ecosystem
+- 📍 India → making my way to San Francisco  
 
 <br/>
 
@@ -77,7 +77,7 @@ End-to-end e-commerce platform — auth, catalog, order workflows, and payment f
 
 Routes LLM inference through NVIDIA NIM (nemotron-ultra-550b, llama3.3-70b) and Groq API. Backend policy logic validates and filters structured model outputs — full system: auth, prompt pipeline, API gateway, rate limiting.
 
-`Node.js` `Python` `NVIDIA NIM` `Groq` `React`
+`Node.js` `React.js` `System Design` `Product Design` `Storytelling`
 
 [🔗 View Repo](https://github.com/MORYASSHAN/meakly)
 
