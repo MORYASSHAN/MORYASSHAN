@@ -88,7 +88,7 @@ An academic management platform that pulls timetables, attendance, exams, events
 - 🔔 Owned system design for **event management & notification infrastructure**
 - 🧩 Modular architecture that cut **feature release cycles by 40%**
 - ⚡ Reworked REST queries + MongoDB schemas: **35% faster** average API response
-- 📝 Lead writer: every tech blog, technical policy, product doc and README
+- 📝 Lead technical writer: every tech blog, technical policy, product doc and README
 
 `Research` → `Design` → `Build` → `Integrate` → `Test` → `Ship`
 
