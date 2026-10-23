@@ -70,7 +70,7 @@ export const shaan = {
 
 <br/>
 
-## `~/projects`
+## `~/Projects`
 
 <!-- ── FLAGSHIP ─────────────────────────────────────────────── -->
 
