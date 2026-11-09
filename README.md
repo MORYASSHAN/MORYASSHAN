@@ -35,7 +35,7 @@ export const shaan = {
   education:  "B.Tech CSE · IIIT Bhubaneswar · 2024 → 2028",
   shipping:   "2+ years of production web apps on the MERN stack",
   building:   ["real-time voice AI agents", "microservice SaaS", "3D web in Three.js + GLSL"],
-  writing:    ["AI agents", "startups & category stories", "screenplays"],
+  writing:    ["AI agents", "startups & category stories"],
   awards:     ["Best Script Writer ×2"],
   programs:   ["Growth Fellow @ Frizzel (YC S25)", "McKinsey Forward Learning Program"],
   offCode:    ["🎾 tennis, any time of day", "🧭 solo travel", "🏔️ aspiring mountaineer", "🎬 filmmaking"],
