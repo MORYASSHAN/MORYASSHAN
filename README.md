@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0c4a6e,75:0ea5e9,100:22d3ee&height=260&section=header&text=MORYASSHAN&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=38bdf8&strokeWidth=1&desc=Shaan%20Goswami%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Voice%20AI%20%E2%80%A2%20Storyteller&descSize=17&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0c4a6e,75:0ea5e9,100:22d3ee&height=260&section=header&text=MORYASSHAN&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=38bdf8&strokeWidth=1&desc=Shaan%20Goswami%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Forward%20Deploying%20%E2%80%A2%20Storyteller&descSize=17&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://moryasshan.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=720&height=60&lines=%3E+booting+moryasshan.exe+...;%3E+Full+Stack+Engineer+%40+Ereefian+%2F+Acadex;%3E+Real-time+voice+agents+in+%3C400ms+%E2%9A%A1;%3E+8+microservices+behind+one+gateway;%3E+Rebuilt+Manhattan+in+Three.js+%2B+GLSL;%3E+Developer+first.+Writer+%26+storyteller+too." alt="typing"/>
